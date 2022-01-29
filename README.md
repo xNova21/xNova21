@@ -1,6 +1,6 @@
 <h1> 👋 Hi there, I'm Lucía Acosta</h1>
-<p>A pasionate Jr Full Stack Developer from Spain.</p>
-<p>Currently I'm looking for Developer work</p>
+<p>A Jr Full Stack Developer from Spain.</p>
+<p>Currently I'm looking for a Web Developer position.</p>
 <h2>Languages and Tools:</h2>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
