@@ -20,4 +20,4 @@
 <h2>Learning:</h2>
 <a href="https://vuejs.org/"><img src="https://vuejs.org/images/logo.svg" alt="Vue" width="40" height="40"/></a>
 <h2>Contact</h2>
-<a href="www.linkedin.com/in/lucia-acosta-abad"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="50" height="50"/></a>
+<a href="https://vuejs.org/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="50" height="50"/></a>
