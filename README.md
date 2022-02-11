@@ -17,7 +17,10 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg" alt="Postman" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a>
-<h2>Learning:</h2>
 <a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" alt="PHP"  height="40"/></a>
+<h2>Courses in progress:</h2>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
+
 <h2>Contact</h2>
 <a href="https://www.linkedin.com/in/lucia-acosta-abad/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="50" height="50"/></a>
