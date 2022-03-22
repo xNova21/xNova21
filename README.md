@@ -20,7 +20,7 @@
 <a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" alt="PHP"  height="40"/></a>
 <h2>Courses in progress:</h2>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="40"/> </a>
 
 <h2>Contact</h2>
 <a href="https://www.linkedin.com/in/lucia-acosta-abad/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="50" height="50"/></a>
